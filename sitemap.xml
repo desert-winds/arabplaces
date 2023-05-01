@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://arab-places.pages.dev/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://arab-places.pages.dev/</loc>
+</url>
+<url>
+<loc>https://arab-places.pages.dev/doner-kebab-recipe.html</loc>
+<lastmod>٢٠٢٣-٠٥-٠١T١١:٤٠:٤٠+٠٢:٠٠</lastmod>
+<image:image>
+<image:loc>https://arab-places.pages.dev/media/posts/1/51005161_605.jpg</image:loc>
+<image:title><![CDATA[الدونر]]></image:title>
+</image:image>
+</url>
+</urlset>
