@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>أماكن العرب</title>
-    <link href="https://arab-places.pages.dev/feed.xml" rel="self" />
-    <link href="https://arab-places.pages.dev" />
+    <link href="https://arabplaces.pages.dev/feed.xml" rel="self" />
+    <link href="https://arabplaces.pages.dev" />
     <updated>٢٠٢٣-٠٥-٠١T١١:٤٠:٤٠+٠٢:٠٠</updated>
     <author>
         <name>إسلام</name>
     </author>
-    <id>https://arab-places.pages.dev</id>
+    <id>https://arabplaces.pages.dev</id>
 
     <entry>
         <title>طريقة عمل الشاورما التركية (الدونر)</title>
         <author>
             <name>إسلام</name>
         </author>
-        <link href="https://arab-places.pages.dev/doner-kebab-recipe.html"/>
-        <id>https://arab-places.pages.dev/doner-kebab-recipe.html</id>
-        <media:content url="https://arab-places.pages.dev/media/posts/1/51005161_605.jpg" medium="image" />
+        <link href="https://arabplaces.pages.dev/doner-kebab-recipe.html"/>
+        <id>https://arabplaces.pages.dev/doner-kebab-recipe.html</id>
+        <media:content url="https://arabplaces.pages.dev/media/posts/1/51005161_605.jpg" medium="image" />
 
         <updated>٢٠٢٣-٠٥-٠١T١١:٤٠:٤٠+٠٢:٠٠</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://arab-places.pages.dev/media/posts/1/51005161_605.jpg" alt="الدونر" />
-                    الشاورما التركية هي وجبة شهيرة في تركيا والشرق الأوسط والمكونة عادةً من لحم الدجاج أو اللحم البقري المشوي على الفحم ومقطع إلى شرائح&hellip;
+                        <img src="https://arabplaces.pages.dev/media/posts/1/51005161_605.jpg" alt="الدونر" />
+                    الشاورما التركية هي وجبة شهيرة في تركيا والشرق الأوسط والمكونة عادةً من لحم الدجاج أو اللحم البقري المشوي على الفحم&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://arab-places.pages.dev/media/posts/1/51005161_605.jpg" class="type:primaryImage" alt="الدونر" /></p>
+                    <p><img src="https://arabplaces.pages.dev/media/posts/1/51005161_605.jpg" class="type:primaryImage" alt="الدونر" /></p>
                 <p class="align-right" style="direction: rtl;"><span style="font-weight: 400;">الشاورما التركية هي وجبة شهيرة في تركيا والشرق الأوسط والمكونة عادةً من لحم الدجاج أو اللحم البقري المشوي على الفحم ومقطع إلى شرائح رفيعة، يتم وضعها في خبز لفاف مع الخضروات والصلصات. وتعتبر الشاورما التركية وجبة سريعة ولذيذة ومفضلة لدى الكثيرين.</span></p>
 <p class="align-right" style="direction: rtl;"><span style="font-weight: 400;">كما تحتوي <a href="https://shawarmaclassic.com/">الشاورما</a> التركية على العديد من العناصر الغذائية المهمة، في اللحم المستخدم فيها غني بالبروتين والفيتامينات والمعادن، كما أنها تحتوي على الخضروات التي توفر الألياف والفيتامينات والمعادن الهامة للجسم.</span></p>
 <h2 class="align-right" style="direction: rtl;"><strong>أشهر انواع الشاورما التركية</strong></h2>
